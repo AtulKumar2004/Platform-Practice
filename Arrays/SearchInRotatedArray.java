@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
 public class SearchInRotatedArray {
     public int search(int[] nums, int target) {
         int min = findMinimum(nums);
