@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+
 public class CheckRotatedSortedArray {
     public boolean check(int[] nums) {
         int k = 0, n = nums.length;
