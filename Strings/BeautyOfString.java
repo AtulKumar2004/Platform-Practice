@@ -1,7 +1,6 @@
 // https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.*;
 
 public class BeautyOfString {
    public static int beautySum(String s) {
