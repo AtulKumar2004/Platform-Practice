@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1
+
 public class CountSetBits {
     public static int countSetBits(int n){
         if(n == 0) return 0;
